@@ -40,3 +40,10 @@ body {
   margin: 0;
   font: 20px/2.2 system-ui;
 }
+
+.slentingline {
+  background-image: url("6.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
